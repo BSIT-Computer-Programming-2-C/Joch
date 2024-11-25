@@ -1,14 +1,1 @@
 
-using System;
-
-namespace HelloWorldApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!"); // Print "Hello, World!" to the console
-            Console.ReadLine(); // Keep the console window open
-        }
-    }
-}
